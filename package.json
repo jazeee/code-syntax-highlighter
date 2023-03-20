@@ -1,0 +1,9 @@
+{
+  "name": "code-syntax-highlighter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prismjs": "^1.29.0"
+  }
+}
